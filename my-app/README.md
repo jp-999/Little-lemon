@@ -48,3 +48,24 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+
+
+GitHub Link: Little Lemon Food Ordering App
+
+This project is the capstone for the React App Capstone, part of the Meta React Native Specialization Certificate program. The Little Lemon Food Ordering App is a cross-platform mobile application that allows users to browse the menu of the Little Lemon restaurant and place orders seamlessly.
+
+Key Features:
+Onboarding Flow: Implemented using various React Native libraries to ensure a smooth user experience from the start.
+Navigation Routes: Efficiently set up to allow easy navigation throughout the app.
+Customizable Profile Page: Users can personalize their profiles, enhancing their interaction with the app.
+Food-Ordering Interface: A user-friendly interface for browsing the menu and placing orders.
+Highlights:
+Clean, Bug-Free Code: Ensuring a reliable and smooth user experience.
+Efficient Use of React Components: Leveraging the power of React Native to build a robust application.
+Cross-Platform Development: Developed to work seamlessly on both iOS and Android devices.
+Categories:
+UX/UI Design
+React (Web Framework)
+GitHub
+Figma
